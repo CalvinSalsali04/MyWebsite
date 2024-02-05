@@ -30,7 +30,7 @@ nav.visible {
 
 .navbar-right > a {
   text-decoration: none;
-  color: rgba(255, 255, 255, 0.96);
+  color: rgba(2, 1, 1, 0.736);
   height: 72px;
   display: grid;
   place-items: center;
